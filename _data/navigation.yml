@@ -1,24 +1,16 @@
-- name: Pricing
-  link: /pricing/
-  new_window: false
+- name: Open Source
+  link: https://github.com/platformatory/opendevx
+  new_window: true
   highlight: false
-- name: Blog
-  link: /blog/
-  new_window: false
+- name: Company
+  link: https://platformatory.io
+  new_window: true
   highlight: false
 - name: About
   link: /about/
   new_window: false
   highlight: false
-- name: Contact
-  link: /contact/
+- name: Book a demo
+  link: /demo/
   new_window: false
-  highlight: false
-- name: Login
-  link: /
-  new_window: true
-  highlight: false
-- name: Sign Up
-  link: /
-  new_window: true
   highlight: true

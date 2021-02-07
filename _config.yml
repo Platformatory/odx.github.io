@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: Hydra Template
-url: "https://proud-alligator.cloudvent.net"
+title: OpenDevX
+url: "https://opendevx.io"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
@@ -10,13 +10,13 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Product marketing template for Jekyll.
+description: API & Developer Ecosystem as a Service.
 author:
   name:
   email:
-  twitter: # twitter username without the @ symbol
+  twitter: opendevx
 social:
-  name: Hydra Template
+  name: OpenDevX
   links:
     - https://github.com/CloudCannon/hydra-jekyll-template
 
